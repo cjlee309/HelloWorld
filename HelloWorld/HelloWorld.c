@@ -2,5 +2,5 @@
 
 void main(int argc, char* argv[])
 {
-	printf("Hello World!\n");
+	printf("My name is CJ Lee\n");
 }
